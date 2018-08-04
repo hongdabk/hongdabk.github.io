@@ -5,9 +5,9 @@
   <subtitle>��ӭ�����ҵ�����</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://%20hongdabk.github.io/"/>
   <updated>2018-08-04T08:38:35.026Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http:// hongdabk.github.io/</id>
   
   <author>
     <name>�ź��</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>中文？？</title>
-    <link href="http://yoursite.com/2018/08/04/%E4%B8%AD%E6%96%87%EF%BC%9F%EF%BC%9F/"/>
-    <id>http://yoursite.com/2018/08/04/中文？？/</id>
+    <link href="http://%20hongdabk.github.io/2018/08/04/%E4%B8%AD%E6%96%87%EF%BC%9F%EF%BC%9F/"/>
+    <id>http:// hongdabk.github.io/2018/08/04/中文？？/</id>
     <published>2018-08-04T08:38:35.000Z</published>
     <updated>2018-08-04T08:38:35.026Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/08/04/hello-world/"/>
-    <id>http://yoursite.com/2018/08/04/hello-world/</id>
+    <link href="http://%20hongdabk.github.io/2018/08/04/hello-world/"/>
+    <id>http:// hongdabk.github.io/2018/08/04/hello-world/</id>
     <published>2018-08-04T05:40:38.828Z</published>
     <updated>2017-10-28T00:39:58.000Z</updated>
     
